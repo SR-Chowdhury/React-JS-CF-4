@@ -1,0 +1,26 @@
+.Container {
+    padding: 50px;  
+    margin: 50px;
+    border: 1px solid blue;
+}
+
+.Skills ul, .Links ul {
+    list-style: none;
+}
+
+.Skills ul li, .Links ul li {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid #ddd;
+    margin-right: 5px;
+
+}
+
+.Links ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.Links ul li a:hover {
+    color: red;
+}

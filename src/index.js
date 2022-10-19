@@ -1,7 +1,28 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+
+//Chapter Four: 1-9
+// import App from './introduction/app'
+
+//Chapter Four: 10
+// import App from './profile/app'
+
+//Chapter Four: 11
+// import App from './split-profile/app'
+
+//Chapter Four: 13
+// import App from './props/app'
+
+//Chapter Four: 14
+// import App from './modify-props/app'
+
+//Chapter Four: 15
+// import App from './pass-function/app'
+
+//Chapter Four: 16
+import App from './children-props/app'
+
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
