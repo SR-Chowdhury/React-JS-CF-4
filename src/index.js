@@ -21,7 +21,13 @@ import './index.css';
 // import App from './pass-function/app'
 
 //Chapter Four: 16
-import App from './children-props/app'
+// import App from './children-props/app'
+
+//Chapter Four: Practice Problem 2
+// import App from './practice-problem-2/app'
+
+//Chapter Four: Practice Problem 3
+import App from './practice-problem-3/app'
 
 import reportWebVitals from './reportWebVitals';
 
